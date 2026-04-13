@@ -10,4 +10,4 @@ What the project does:
   -uses dermoscopic images as its inputs and highlights areas which contributes most towards its given classification
 
 Results:
-  -
+  -wdfasdffsdfsdaf
