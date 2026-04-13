@@ -24,7 +24,7 @@ grad-cam results:
 ![image](https://github.com/user-attachments/assets/928bfec0-d19f-4261-8407-1adfe1ea3a5c)
 ![image](https://github.com/user-attachments/assets/1ab339ac-9b92-47b0-a373-5f07da969ab8)
 
-AOC and F1 Scores (from two different runs of the model)
+AOC and F1 Scores (from two different runs of the model):
 
 ![image](https://github.com/user-attachments/assets/e1edd62e-c823-4d40-85d3-9919fe56518c)
 ![image](https://github.com/user-attachments/assets/cbdd1b19-86ec-4a04-9def-c84b25d06242)
