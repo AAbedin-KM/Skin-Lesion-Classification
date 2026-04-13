@@ -6,8 +6,8 @@ Fine-tuned a pretrained ResNet18 on the HAM10000 dermoscopic image dataset to cl
 
 
 What the project does:
-  -A deep learnign model using PyTorch which uses ResNet18 model to classify 7 types of skin lesions
-  -uses dermoscopic images as its inputs and highlights areas which contributes most towards its given classification
+  A deep learnign model using PyTorch which uses ResNet18 model to classify 7 types of skin lesions
+  uses dermoscopic images as its inputs and highlights areas which contributes most towards its given classification
 
 Results:
-  -wdfasdffsdfsdaf
+  
